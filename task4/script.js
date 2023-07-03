@@ -1,0 +1,1 @@
+const enterTx = document.querySelector('#enterTx');
